@@ -1,0 +1,21 @@
+{
+  "name": "rrule-demo-app",
+  "version": "1.0.0",
+  "description": "to experiment with APIs of the rrule lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rrule",
+    "rfc-5545",
+    "icalendar",
+    "scheduling"
+  ],
+  "author": "ashish kumar (ashish26kr91@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "rrule": "^2.6.4"
+  }
+}
