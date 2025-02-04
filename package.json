@@ -16,7 +16,7 @@
   "author": "ashish kumar (ashish26kr91@gmail.com)",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "rrule": "^2.7.1"
   }
 }
